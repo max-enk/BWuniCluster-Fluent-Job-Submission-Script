@@ -1,0 +1,5 @@
+/file/rc S000-1ref-1.cas.h5
+/file/auto-save/data-frequency 0.01
+/solve/init/init
+/solve/dual-time-iterate 1.5 1000 
+/exit ok

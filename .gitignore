@@ -1,0 +1,8 @@
+# Folder with development files or outdated versions
+/backups/
+
+# Exclude all .h5 files in the S000-1ref directory and subdirectories
+S000-1ref/**/*.h5
+
+# Exclude all .dat.h5 files in the simulation subdirectory
+S000-1ref/simulation/*.dat.h5

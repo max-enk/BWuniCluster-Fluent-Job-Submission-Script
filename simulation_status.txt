@@ -1,0 +1,11 @@
+Simulation      Status          Run     Time/Total Time     Nodes   Cores/Node  CPU Time (DD-HH:MM:SS)  
+H55-1           running         3       0.240005/1.5        1       40          06-00:03:03             
+S55-8           running         3       0.440000/1.5        1       40          06-00:02:56             
+H108-1          running         3       0.230000/1.5        1       40          06-00:03:00             
+H184-1          running         3       0.170007/1.5        1       40          06-00:02:56             
+H383-3          queued          9       0.420002/1.5        2       40          27-00:02:24             
+H383-4          queued          9       0.040002/1.5        2       40          27-00:02:15             
+S224-7          running         3       0.300000/1.5        1       40          06-00:03:09             
+S108-11         running         3       0.380001/1.5        1       40          06-00:03:03             
+ 
+Updated: Sun Dec 17 12:30:59 CET 2023
